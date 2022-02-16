@@ -188,6 +188,7 @@
 (^|\.)snssdk\.com$
 (^|\.)toutiao\.com$
 (^|\.)toutiao13\.com$
+(^|\.)toutiaoapi\.com$
 (^|\.)toutiaocdn\.com$
 (^|\.)toutiaocdn\.net$
 (^|\.)toutiaocloud\.com$
@@ -682,9 +683,7 @@
 (^|\.)quanmin\.tv$
 (^|\.)qunar\.com$
 (^|\.)qunarzz\.com$
-(^|\.)rarbg\.to$
 (^|\.)repaik\.com$
-(^|\.)rrmj\.tv$
 (^|\.)ruguoapp\.com$
 (^|\.)runoob\.com$
 (^|\.)sankuai\.com$
